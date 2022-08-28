@@ -12,6 +12,7 @@ weight: 90
 title: Recent Publications
 subtitle: ''
 
+
 content:
   # Filter on criteria
   filters:
