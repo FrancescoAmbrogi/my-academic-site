@@ -42,7 +42,7 @@ featured: true
 # - name: Conference page
 #   url: https://www.tsfp12.org/index.html
 
-url_pdf: ''
+url_pdf: 'http://www.tsfp-conference.org/proceedings/2022/9.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
