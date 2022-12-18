@@ -22,6 +22,14 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Teaching Fellow
+    company: Queen's University
+    company_url: ''
+    location: Kingston (ON)
+    date_start: '2023-01-01'
+    date_end: '2023-04-30'
+    description: During the winter term 2023 I will be the primary instructor of Fluid Mechanics I a second year course for Mechanical Engineering students.  
+
   - title: Teaching Assistant
     company: Queen's University
     company_url: ''
