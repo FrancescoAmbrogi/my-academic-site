@@ -18,13 +18,21 @@ main:
     weight: 40
   - name: Publications
     url: '#publications'
-    weight: 50
+    weigiht: 50
+  - name: Teaching
+    url: 'courses/'
+    weight: 60
+    identifier: courses
+#  - name: Fluid Mechanics I
+#    PageRef: courses/FluidsI/_index.md
+#    weight: 10
+#    parent: courses 
   - name: Contact
     url: '#contact'
-    weight: 60
+    weight: 70
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
   - name: CV
     url: uploads/Ambrogi_Francesco_CV.pdf
-    weight: 70
+    weight: 80
