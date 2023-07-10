@@ -1,7 +1,7 @@
 ---
-title: Fluid Mechanics I
+title: Fluid Mechanics I - Queen's University W23
 linkTitle: Learn Fluids
-summary: A second year engineering course on the fundamentals of Fluid Mechanics
+summary: A second year undergraduate engineering course on the fundamentals of Fluid Mechanics
 date: '2023-05-13'
 type: book
 tags:
@@ -41,16 +41,16 @@ Download the **Course Syllabus** [HERE](./Syllabus_mech241_w23_ambrogi.pdf)
 ## Suggested time commitment
 Generally, we expect that students attend all lectures (3hrs/week), review material at home (1 hr/week), complete the weekly assignment problems (1-2 hrs/week - if an assignment takes much more than 1 hr you should be doing additional problems and coming to tutorials and office hours for additional help understanding, about another 2 hours a week). If you keep up your understanding week to week, then a few hours review should be enough to do well on the final exam. An average student will be able to do well in this course by spending about 6 hours a week, over the twelve-week term.
 
-## FAQs
+## Students feedback
 
-{{< spoiler text="Are there prerequisites?" >}}
-The only ones I could think of are: a basic knowledge of Calculus and Physics.
+{{< spoiler text="Student A" >}}
+Francesco Ambrogi is the best instructor I have ever had the privilege of learning from. He was very accommodating and his passion for the subject made me want to learn more, something no other Queen's professor has accomplished. He inspired me to switch out of biomechanical and into general mechanical so that I can take fluids again next year. I hope he continues to teach fluids so that MECH 241 doesn't have to be the class everyone is scared of failing.
 {{< /spoiler >}}
 
-{{< spoiler text="Is there a lot of math?" >}}
-There is a REASONABLE amount of math. However, nothing you can't handle!
+{{< spoiler text="Student B" >}}
+Honestly hearing it was your first year I didn’t know what to expect, especially hearing what happened in this class. But let me tell you, YOU'VE BEEN AMAZING. Seriously, I was really concerned about the course but the way you deliver materiel is insane. Please become a permanent professor. You’re a god at what you do.
 {{< /spoiler >}}
 
-{{< spoiler text="Do I need to memorize a lot?" >}}
-You DO NOT. The equations you must remember are very few and very simple. I will always allow students to take the exam with a single-sided or double-sided formula sheet.
+{{< spoiler text="Student C" >}}
+Professor Ambrogi is single handedly the best professor and one of the best teachers I have had in my learning career. You can tell he cares about the content as well as his students success. The structure of his classes are engaging and effective for my style of learning, the assignments are the right amount of challenge and time commitment and the rest of the course videos and practice he provides is perfect. I really appreciate his summary videos. The others classes I have been in thus far at this school have only been effective for auditory listeners and this is the first time I, a visual learner, have been able to walk out of a lecture feeling like I had learnt something.
 {{< /spoiler >}}
