@@ -22,13 +22,26 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Sessional Instructor
+    company: Royal Military College of Canada
+    company_url: 'https://www.rmc-cmr.ca/en/mechanical-and-aerospace-engineering/department-mechanical-aerospace-engineering'
+    location: Kingston (ON)
+    date_start: '2023-08-14'
+    date_end: '2023-12-15'
+    description: |2-
+        During the Fall term 2023 I will be the primary instructor for two engineering courses offered by the Mechanical and Aerospace engineering department:
+
+        * MEE311 Fluid Mechanics
+        * MEE315 Fluid Dynamics
+
+
   - title: Teaching Fellow
     company: Queen's University
     company_url: ''
     location: Kingston (ON)
     date_start: '2023-01-01'
     date_end: '2023-04-30'
-    description: During the winter term 2023 I will be the primary instructor of Fluid Mechanics I a second year course for Mechanical Engineering students.  
+    description: During the winter term 2023 I have been the primary instructor of Fluid Mechanics I a second year course for Mechanical Engineering students.  
 
   - title: Teaching Assistant
     company: Queen's University
