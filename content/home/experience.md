@@ -27,7 +27,7 @@ experience:
     company_url: 'https://www.rmc-cmr.ca/en/mechanical-and-aerospace-engineering/department-mechanical-aerospace-engineering'
     location: Kingston (ON)
     date_start: '2023-08-14'
-    date_end: '2023-12-15'
+    date_end: ''
     description: |2-
         During the Fall term 2023 I will be the primary instructor for two engineering courses offered by the Mechanical and Aerospace engineering department:
 
@@ -40,7 +40,7 @@ experience:
     company_url: ''
     location: Kingston (ON)
     date_start: '2023-01-01'
-    date_end: '2023-04-30'
+    date_end: ''
     description: During the winter term 2023 I have been the primary instructor of Fluid Mechanics I a second year course for Mechanical Engineering students.  
 
   - title: Teaching Assistant
