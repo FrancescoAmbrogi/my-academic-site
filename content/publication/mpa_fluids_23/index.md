@@ -6,7 +6,7 @@ title: 'Evaluation of Turbulence Models in Unsteady Separation'
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Claire Yeo MacDougall,
+  - Claire Yeo MacDougall
   - Ugo Piomelli
   - admin
 
