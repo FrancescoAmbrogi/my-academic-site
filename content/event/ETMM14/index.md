@@ -1,5 +1,5 @@
 ---
-title: Dynamic of turbulent kinetic energy advection in an unsteady separated turbulent boundary layer
+title: Advection dynamics of a turbulent separation bubble
 
 event: The 14th International ERCOFTAC Symposium on Engineering Turbulence Modelling and Measurements
 event_url: https://etmm.ercoftac.org/etmm/
