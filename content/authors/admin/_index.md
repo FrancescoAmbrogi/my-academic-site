@@ -53,9 +53,6 @@ social:
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=Xmie4zcAAAAJ&hl=en&oi=ao
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/fAmbrogiEng
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
