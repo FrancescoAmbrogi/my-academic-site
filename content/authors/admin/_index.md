@@ -6,7 +6,7 @@ title: Francesco Ambrogi
 superuser: true
 
 # Role/position/tagline
-role: PhD Candidate in Mechanical Engineering
+role: Ph.D. in Mechanical Engineering
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -72,9 +72,9 @@ email: ''
 highlight_name: true
 ---
 
-My name is Francesco Ambrogi. I am a PhD candidate at Queen's University, Kingston Ontario. I work in the Turbulence Simulation and Modeling (TSM) laboratory under the supervision of Prof. Ugo Piomelli. My research focuses on computational and theoretical studies of turbulent boundary layers (TBLs) with pressure gradients. Specifically, I am interested in simulating the effect of strong unsteady adverse and favorable pressure gradients on the physics of wall bounded flows.
+My name is Francesco Ambrogi. I recently defended my PhD thesis at Queen's University, Kingston Ontario. I work in the [Turbulence Simulation and Modeling (TSM) laboratory](https://smithengineering.queensu.ca/mme/faculty/piomelli/tsm-lab) under the supervision of [Prof. Ugo Piomelli](https://smithengineering.queensu.ca/directory/faculty/ugo-piomelli). My research focuses on computational and theoretical studies of turbulent boundary layers (TBLs) with pressure gradients. Specifically, I am interested in simulating the effect of strong unsteady adverse and favorable pressure gradients on the physics of wall bounded flows.
 
-On a more personal note, I am fascinated by astronomy and I love reading. Since April 2021 I am a member of the Kingston Rotaract Club. I enjoy outdoor activities and since I moved to Canada, one of my favorite hobbies is Birding.
+On a more personal note, I am fascinated by astronomy and I love reading. Since April 2021 I am a member of the [Kingston Rotaract Club](https://www.rotaractclubofkingston.com/meet-the-team). Since then, I have served as club president and treasurer. I enjoy outdoor activities and one of my strongest passions is teaching.
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Ambrogi_Francesco_CV.pdf" "newtab" >}}CV{{< /staticref >}}.
