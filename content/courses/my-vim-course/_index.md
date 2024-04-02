@@ -44,9 +44,11 @@ Right off the bat you might think Vim looks **pretty** boring, especially if com
 
 If you are ready to give up Vim because of its look (at first), I totally understand. However, let's not judge the book from its cover, and take a look at this:
 
+
 ![Calculate the volume of a sphere.](Figures/03_sphere_sy.png)
 
-Much better, right?? We have now highlighted syntax for different programming languages, we have line numbers, automatic indentation, and it underlines where you currently are with the cursor (which in Vim is pretty crucial). So how do you make these changes in Vim? Again, this is not intuitive. There is no dropdown settings menu where you can edit all the perks. Remember, __Vim is meant to work without GUI__.
+Much better, right?? We have now highlighted syntax for different programming languages, we have line numbers, automatic indentation, and it underlines where you currently are with the cursor (which in Vim is pretty crucial). So how do you make these changes in Vim? Again, this is not intuitive. There is no dropdown settings menu where you can edit all the perks. 
+
 
 At start-up vim automatically reads a config file called <mark>vimrc</mark>. This is the equivalent of your <mark>bashrc</mark> file for your terminal. If you just installed Vim or if you are a brand new user, chances are you do not have this file, so the first thing to do is to create the file at home: <mark>touch ~/.vimrc</mark>
 
