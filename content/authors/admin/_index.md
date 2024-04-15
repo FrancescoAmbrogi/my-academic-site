@@ -1,19 +1,21 @@
 ---
 # Display name
-title: Francesco Ambrogi
+title: Francesco Ambrogi, PhD
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Ph.D. in Mechanical Engineering
+role: Adjunct Professor in Mechanical Engineering
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Turbulence Simulation and Modelling Lab
-  url: https://me.queensu.ca/People/Piomelli/TSMLab.html
 - name: Queen's University
   url: https://www.queensu.ca/
+- name: The Royal Military College of Canada
+  url: https://www.rmc-cmr.ca/en/registrars-office/mechanical-aeronautical-engineering-undergraduate-programmes
+- name: Turbulence Simulation and Modelling Lab
+  url: https://me.queensu.ca/People/Piomelli/TSMLab.html
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include boundary layer theory, computational fluid dynamics, direct numerical and large eddy simulations of turbulent flows.
@@ -72,7 +74,7 @@ email: ''
 highlight_name: true
 ---
 
-My name is Francesco Ambrogi. I recently defended my PhD thesis at Queen's University, Kingston Ontario. I work in the [Turbulence Simulation and Modeling (TSM) laboratory](https://smithengineering.queensu.ca/mme/faculty/piomelli/tsm-lab) under the supervision of [Prof. Ugo Piomelli](https://smithengineering.queensu.ca/directory/faculty/ugo-piomelli). My research focuses on computational and theoretical studies of turbulent boundary layers (TBLs) with pressure gradients. Specifically, I am interested in simulating the effect of strong unsteady adverse and favorable pressure gradients on the physics of wall bounded flows.
+My name is Francesco Ambrogi. I recently defended my PhD thesis at Queen's University, Kingston Ontario. During my PhD I worked in the [Turbulence Simulation and Modeling (TSM) laboratory](https://smithengineering.queensu.ca/mme/faculty/piomelli/tsm-lab) under the supervision of [Prof. Ugo Piomelli](https://smithengineering.queensu.ca/directory/faculty/ugo-piomelli). My research focuses on computational and theoretical studies of turbulent boundary layers (TBLs) with pressure gradients. Specifically, I am interested in simulating the effect of strong unsteady adverse and favorable pressure gradients on the physics of wall bounded flows. As of today, I am an adjunct professor at [Queen's](https://www.queensu.ca/) and [RMC](https://www.rmc-cmr.ca/en/registrars-office/mechanical-aeronautical-engineering-undergraduate-programmes) where I teach Fluid Mechanics and Advanced Fluid Mechanics to engineering students.
 
 On a more personal note, I am fascinated by astronomy and I love reading. Since April 2021 I am a member of the [Kingston Rotaract Club](https://www.rotaractclubofkingston.com/meet-the-team). Since then, I have served as club president and treasurer. I enjoy outdoor activities and one of my strongest passions is teaching.
 
