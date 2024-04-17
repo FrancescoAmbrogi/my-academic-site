@@ -22,33 +22,34 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Sessional Instructor
+  - title: Adjunct professor
     company: Royal Military College of Canada
     company_url: 'https://www.rmc-cmr.ca/en/mechanical-and-aerospace-engineering/department-mechanical-aerospace-engineering'
     location: Kingston (ON)
     date_start: '2023-08-14'
     date_end: ''
     description: |2-
-        During the Fall term 2023 I will be the primary instructor for two engineering courses offered by the Mechanical and Aerospace engineering department:
+        Since the fall term 2023 I have been the primary instructor for the following courses:
 
         * MEE311 Fluid Mechanics
         * MEE315 Fluid Dynamics
+        * MEE313 Advanced fluid mechanics
 
 
-  - title: Teaching Fellow
+  - title: Adjunct professor
     company: Queen's University
     company_url: ''
     location: Kingston (ON)
     date_start: '2023-01-01'
     date_end: ''
-    description: During the winter term 2023 I have been the primary instructor of Fluid Mechanics I a second year course for Mechanical Engineering students.  
+    description: For the winter term 2023 and the winter term 2024 I have been the instructor for MECH 241 (Fluid Mechanics I) to second year engineering students.  
 
   - title: Teaching Assistant
     company: Queen's University
     company_url: ''
     location: Kingston (ON)
     date_start: '2019-01-01'
-    date_end: ''
+    date_end: '2023-12-08'
     description: |2-
         Since the beginning of my PhD I have been assigned as teaching assistant for several courses at Queen's such as:
 
@@ -56,12 +57,12 @@ experience:
         * MECH241 Fluid Mechanics I
         * MECH341 Fluid Mechanics II
 
-  - title: Research Assistant
+  - title: Graduate Research Assistant
     company: TSM Lab @ Queen's University
     company_url: 'https://me.queensu.ca/People/Piomelli/TSMLab.html'
     location: Kingston (ON)
     date_start: '2019-09-01'
-    date_end: ''
+    date_end: '2023-12-08'
     description: Within the TSM Lab we perform Direct Numerical and Large Eddy Simulations of Turbulent Flows in different physical conditions and with several geometries. My research focuses on simulating Turbulent Boundary layers under strong pressure gradients and separated flows.
 
   - title: Graduate Intern
