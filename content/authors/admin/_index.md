@@ -6,19 +6,17 @@ title: Francesco Ambrogi, PhD
 superuser: true
 
 # Role/position/tagline
-role: Adjunct Professor in Mechanical Engineering
+role: Postdoctoral researcher in Mechanical Engineering
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Queen's University
-  url: https://www.queensu.ca/
-- name: The Royal Military College of Canada
-  url: https://www.rmc-cmr.ca/en/registrars-office/mechanical-aeronautical-engineering-undergraduate-programmes
-- name: Turbulence Simulation and Modelling Lab
-  url: https://me.queensu.ca/People/Piomelli/TSMLab.html
+- name: University of Waterloo
+  url: https://uwaterloo.ca/mechanical-mechatronics-engineering/
+- name: Multi-Physics Interaction (MPI) Lab
+  url: https://www.mpilab.ca/home
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include boundary layer theory, computational fluid dynamics, direct numerical and large eddy simulations of turbulent flows.
+bio: My research interests include boundary layer theory, particle-laden flows, computational fluid dynamics, direct numerical and large eddy simulations of turbulent flows.
 
 # Interests to show in About widget
 interests:
@@ -73,10 +71,9 @@ email: ''
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
+Dr. Francesco Ambrogi obtained his PhD from Queen’s University in December 2023 under the supervision of Prof. Ugo Piomelli. During his PhD, he worked as a graduate research assistant in the [Turbulence Simulation and Modelling (TSM) laboratory](https://smithengineering.queensu.ca/mme/faculty/piomelli/tsm-lab), and as a teaching fellow in the Mechanical and Materials Engineering department where he taught Fluid Mechanics to second year engineering students. During his PhD his research focused on computational and theoretical studies of turbulent boundary layers (TBLs) with pressure gradients. Specifically, he was interested in simulating the effect of strong unsteady adverse and favorable pressure gradients on the physics of wall bounded flows. As of June 2024, Dr. Ambrogi is a postdoctoral research fellow at University of Waterloo where he works in the [Multi-Physics Interaction (MPI) Lab](https://www.mpilab.ca/home) led by Dr. Hickey, and his research focuses on invesitgating surface clustering in non-isothermal particle-laden turbulent flows.
 
-My name is Francesco Ambrogi. I recently defended my PhD thesis at Queen's University, Kingston Ontario. During my PhD I worked in the [Turbulence Simulation and Modeling (TSM) laboratory](https://smithengineering.queensu.ca/mme/faculty/piomelli/tsm-lab) under the supervision of [Prof. Ugo Piomelli](https://smithengineering.queensu.ca/directory/faculty/ugo-piomelli). My research focuses on computational and theoretical studies of turbulent boundary layers (TBLs) with pressure gradients. Specifically, I am interested in simulating the effect of strong unsteady adverse and favorable pressure gradients on the physics of wall bounded flows. As of today, I am an adjunct professor at [Queen's](https://www.queensu.ca/) and [RMC](https://www.rmc-cmr.ca/en/registrars-office/mechanical-aeronautical-engineering-undergraduate-programmes) where I teach Fluid Mechanics and Advanced Fluid Mechanics to engineering students.
-
-On a more personal note, I am fascinated by astronomy and I love reading. Since April 2021 I am a member of the [Kingston Rotaract Club](https://www.rotaractclubofkingston.com/meet-the-team). Since then, I have served as club president and treasurer. I enjoy outdoor activities and one of my strongest passions is teaching.
+On a more personal note, Francesco is fascinated by astronomy and loves reading. Since April 2021 Francesco is a member of the [Kingston Rotaract Club](https://www.rotaractclubofkingston.com/meet-the-team). Since then, he served as club president and treasurer. Francesco enjoys outdoor activities and one of his strongest passions is teaching.
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Ambrogi_Francesco_CV.pdf" "newtab" >}}CV{{< /staticref >}}.

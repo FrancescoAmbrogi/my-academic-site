@@ -21,13 +21,22 @@ date_format: Jan 2006
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+
 experience:
+  - title: Postdoctoral Research Fellow
+    company: MPI Lab @ University of Waterloo
+    company_url: 'https://www.mpilab.ca/home'
+    location: Waterloo (ON)
+    date_start: '2024-06-01'
+    date_end: ''
+    description: Within the TSM Lab we perform Direct Numerical and Large Eddy Simulations of Turbulent Flows in different physical conditions. My research focuses on particle-laden turbulent flows with a specific interest on (i) the description of heated particles in an Eulerian-Eulerian framework, and (ii) the investigation of surface particles clustering.
+
   - title: Adjunct professor
     company: Royal Military College of Canada
     company_url: 'https://www.rmc-cmr.ca/en/mechanical-and-aerospace-engineering/department-mechanical-aerospace-engineering'
     location: Kingston (ON)
     date_start: '2023-08-14'
-    date_end: ''
+    date_end: '2024-06-01'
     description: |2-
         Since the fall term 2023 I have been the primary instructor for the following courses:
 
