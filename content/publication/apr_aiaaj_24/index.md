@@ -16,7 +16,7 @@ authors:
   - ''
 
 date: '2024-07-23T00:00:00Z'
-doi: '10.2514/1.J064382'
+doi: 'http://arc.aiaa.org/doi/abs/10.2514/1.J064382'
 
 math: true
 
