@@ -23,13 +23,25 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 
 experience:
+  - title: Adjunct assistant professor
+    company: Queen's University
+    company_url: ''
+    location: Kingston (ON)
+    date_start: '2023-01-01'
+    date_end: ''
+    description: |2-
+        Since the winter term 2023 I have been teaching thermo-fluids courses to second and third year engineering students:
+        * MECH 241 - Fluid Mechanics I
+        * MREN 241 - Fluid Mechanics and Fluid Power
+        * MECH 330 - Applied Thermodynamics II
+
   - title: Postdoctoral Research Fellow
     company: MPI Lab @ University of Waterloo
     company_url: 'https://www.mpilab.ca/home'
     location: Waterloo (ON)
     date_start: '2024-06-01'
-    date_end: ''
-    description: Within the TSM Lab we perform Direct Numerical and Large Eddy Simulations of Turbulent Flows in different physical conditions. My research focuses on particle-laden turbulent flows with a specific interest on (i) the description of heated particles in an Eulerian-Eulerian framework, and (ii) the investigation of surface particles clustering.
+    date_end: '2024-09-01'
+    description: Within the MPI Lab we perform Direct Numerical and Large Eddy Simulations of Turbulent Flows in different physical conditions. My research focuses on particle-laden turbulent flows with a specific interest on (i) the description of heated particles in an Eulerian-Eulerian framework, and (ii) the investigation of surface particles clustering.
 
   - title: Adjunct professor
     company: Royal Military College of Canada
@@ -43,15 +55,6 @@ experience:
         * MEE311 Fluid Mechanics
         * MEE315 Fluid Dynamics
         * MEE313 Advanced fluid mechanics
-
-
-  - title: Adjunct professor
-    company: Queen's University
-    company_url: ''
-    location: Kingston (ON)
-    date_start: '2023-01-01'
-    date_end: ''
-    description: For the winter term 2023 and the winter term 2024 I have been the instructor for MECH 241 (Fluid Mechanics I) to second year engineering students.  
 
   - title: Teaching Assistant
     company: Queen's University

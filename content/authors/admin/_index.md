@@ -6,24 +6,24 @@ title: Francesco Ambrogi, PhD
 superuser: true
 
 # Role/position/tagline
-role: Postdoctoral researcher in Mechanical Engineering
+role: Adjunct assistant professor
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: University of Waterloo
-  url: https://uwaterloo.ca/mechanical-mechatronics-engineering/
-- name: Multi-Physics Interaction (MPI) Lab
-  url: https://www.mpilab.ca/home
+- name: Queen's University
+  url: https://smithengineering.queensu.ca/mme/index
+- name: Mechanical and Materials Engineering (MME) department
+  url: https://smithengineering.queensu.ca/mme/index
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include boundary layer theory, particle-laden flows, computational fluid dynamics, direct numerical and large eddy simulations of turbulent flows.
 
 # Interests to show in About widget
 interests:
+- Engineering education
 - Turbulent Boundary Layers
 - Computational Fluid Dynamics
 - Unsteady flow separation
-- DNS and LES
 
 # Education to show in About widget
 education:
