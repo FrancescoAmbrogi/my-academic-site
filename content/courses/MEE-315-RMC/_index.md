@@ -1,5 +1,5 @@
 ---
-title: Fluid Dynamics - Royal Military College of Canada F23
+title: MEE311 and MEE315 - Fluid Dynamics - Royal Military College of Canada F23
 linkTitle: Learn Fluids
 summary: A third year undergraduate engineering course on the fundamentals of Fluid Dynamics
 date: '2023-09-01'

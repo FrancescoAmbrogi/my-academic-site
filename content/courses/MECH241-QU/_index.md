@@ -1,5 +1,5 @@
 ---
-title: Fluid Mechanics I - Queen's University W23
+title: MECH241 - Fluid Mechanics I - Queen's University
 linkTitle: Learn Fluids
 summary: A second year undergraduate engineering course on the fundamentals of Fluid Mechanics
 date: '2023-05-13'

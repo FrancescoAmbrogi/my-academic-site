@@ -11,6 +11,6 @@ banner:
   image: ''
 ---
 
-This is the list of course I have been teaching in my academic carreer.
+This is the list of courses I have been teaching in my academic career.
 
 
