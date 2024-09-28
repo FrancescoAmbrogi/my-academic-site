@@ -13,7 +13,8 @@ tags:
 {{< toc hide_on="xl" >}}
 
 ## What you will learn
-This is an introductory course in fluid mechanics. The main goal is to give students a basic understanding of fluid mechanics principles and their application to the design and analysis of practical engineering systems. Upon completion of the course students will be able to:
+An introductory course in fluid mechanics with application to fluid power systems. Topics include properties of fluids, fluids at rest, dimensional analysis, the laws of conservation of mass and momentum, Bernoulli's equation for incompressible flow and the energy equation, flow measurements, elementary pipe flow problems including losses due to pumps, valves etc. Laboratories will introduce students to pressure and flow measuring devices, pneumatic and hydraulic components and actuators, and circuit analysis of fluid power systems. Upon completion of the course students will be able to:
+
 1. Define a fluid based on its thermodynamic properties.
 2. Distinguish between a Eulerian and a Lagrangian approach to fluid mechanics.
 3. Compute pressure distribution and forces on submerged bodies in a static fluid.
@@ -21,9 +22,7 @@ This is an introductory course in fluid mechanics. The main goal is to give stud
 5. Understand the relevance of dimensional analysis and non-dimensional groups.
 6. Use Bernoulli’s equation to solve simple flow problems involving Pitot probes and Bernoulli’s
 obstacles.
-7. Solve simple flow fields using the Navier-Stokes system of equations with appropriate
-assumptions and boundary conditions.
-8. Solve pipe flow problems and piping systems involving pumps, minor and major losses.
+7. Solve pipe flow problems and piping systems involving pumps, minor and major losses.
 
 ## Instructor
 
@@ -43,14 +42,4 @@ Generally, we expect that students attend all lectures (3hrs/week), review mater
 
 ## Students feedback
 
-{{< spoiler text="Student A" >}}
-Francesco Ambrogi is the best instructor I have ever had the privilege of learning from. He was very accommodating and his passion for the subject made me want to learn more, something no other Queen's professor has accomplished. He inspired me to switch out of biomechanical and into general mechanical so that I can take fluids again next year. I hope he continues to teach fluids so that MECH 241 doesn't have to be the class everyone is scared of failing.
-{{< /spoiler >}}
-
-{{< spoiler text="Student B" >}}
-Honestly hearing it was your first year I didn’t know what to expect, especially hearing what happened in this class. But let me tell you, YOU'VE BEEN AMAZING. Seriously, I was really concerned about the course but the way you deliver materiel is insane. Please become a permanent professor. You’re a god at what you do.
-{{< /spoiler >}}
-
-{{< spoiler text="Student C" >}}
-Professor Ambrogi is single handedly the best professor and one of the best teachers I have had in my learning career. You can tell he cares about the content as well as his students success. The structure of his classes are engaging and effective for my style of learning, the assignments are the right amount of challenge and time commitment and the rest of the course videos and practice he provides is perfect. I really appreciate his summary videos. The others classes I have been in thus far at this school have only been effective for auditory listeners and this is the first time I, a visual learner, have been able to walk out of a lecture feeling like I had learnt something.
-{{< /spoiler >}}
+Coming soon ...
