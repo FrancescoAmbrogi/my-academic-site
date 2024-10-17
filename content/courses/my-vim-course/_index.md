@@ -2,7 +2,7 @@
 title: VIM is awesome
 linkTitle: Learn Vim
 summary: A quick introductory course on the hidden beauties of Vim text editor
-date: '2023-05-13'
+date: '2023-01-01'
 type: book
 tags:
   - previous
@@ -21,14 +21,14 @@ Vim (**Vi** **IM**proved) is a completely free, open-source, screen-based text e
 
 ## Why you should use Vim?
 If you work/study in computational science, chances are you will need to perform numerical simulations on large super-computers by accessing them through **S**ecure **SH**ell connection. Most clusters use Linux as the main operating system and once you are connected to the cluster you will quickly realize that:
-1. There is NO graphic interface (in most cases), and all you see is a terminal window.
+1. There is NO graphic interface (in most cases), and all you will see is a terminal window.
 2. You will not be able to use your favourite text editor in graphic mode.
 
 Do not dispair! Vim is here to save your life. Vim is, by default, present in almost all Linux distributions. Type <mark>vim</mark> on your command line, and this is the output you should see:  
 
 ![Typing vim in command line output.](Figures/01_vim_init.png)
 
-The first thing you realize is that the vim welcome message pops up in the terminal itself and that, from now on, you can take your mouse (or trackpad) and throw it in the garbage! You might not see it right now, but this is one of the hidden beauties of Vim.
+The first thing you will realize is that the vim welcome message pops up in the terminal window itself and that, from now on, you can take your mouse (or trackpad) and throw it in the garbage! You might not see it right now, but this is one of the hidden beauties of Vim.
 
 ## Quitting Vim, not an intuitive task
 
@@ -38,7 +38,7 @@ After this fun intro, here is how you quit Vim: press <mark>:q</mark> (colomn fo
 
 ## Give Vim a new look
 
-Right off the bat you might think Vim looks **pretty** boring, especially if compared with recent fancy text editors (e.g. Atom, VS code, etc.). To give you an idea, here is a simple function (witten in Julia) to calculate the volume of a spehere:
+Right off the bat you might think Vim looks **pretty** boring, especially if compared with recent very fancy text editors (e.g. Atom, VS code, etc.). To give you an idea, here is a simple function (witten in Julia) to calculate the volume of a spehere:
 
 ![Calculate the volume of a sphere.](Figures/02_sphere_jl_nosy.png)
 
@@ -67,9 +67,9 @@ From top to bottom: **nocompatible** fixes compatibility problems between Vi and
 
 ## Four VIM modes
 
-The most important thing to realize as soon as Vim starts up is understand in what **mode** is working. There are 4 MAIN modes:
+The most important thing to realize as soon as Vim starts up is understand in what **mode** is working. There are **4 MAIN** modes:
 1. __Normal__: normal mode is the default start-up mode for Vim. This mode is read-only and you will be unable to edit the file. Very useful when consulting or studying a piece of code. 
-2. __Insert__: upon pressing <mark>i</mark> you will enter **insert mode**. In this mode you will be able to freerly edit the file. Two very useful sub-commands are: <mark>a</mark> will turn on instert mode and move the cursor after the current character. <mark>o</mark> will turn on insert mode and move the cursor one line below.
+2. __Insert__: upon pressing <mark>i</mark> you will enter **insert mode**. In this mode you will be able to freerly edit the file. Insert mode can also be activated by pressing <mark>INS</mark> on a full-size keyboard. Two very useful sub-commands are: <mark>a</mark> will turn on instert mode and move the cursor after the current character. <mark>o</mark> will turn on insert mode and move the cursor one line below.
 3. __Visual__: this mode allows you to visually highlight (slect) text areas and perform operation (cut, copy, move) on them. Press <mark>v</mark> to enter visual mode which will mark the beginning of the selection. You can use the arrow keys to highlight the desired text.
 4. __Command line__: this mode will allow you to perform operations such as: quit, save, replace, and search. Enter the command line mode by typing <mark>:</mark> within **normal mode**.
  
@@ -110,4 +110,4 @@ set incsearch
 set ignorecase
 set hlsearch
 ``` 
-This i FAR beyond a complete course on Vim but just a quick showcase of useful commands that may spark your curiosity to use this wonderful tool. Keep checking as I will add more sections soon ...
+This is FAR beyond a complete course on Vim text editor, but just a quick showcase of useful commands that may spark your curiosity to use this wonderful tool. Keep checking as I will add more sections soon ...

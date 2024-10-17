@@ -2,7 +2,7 @@
 title: MECH330 - Applied Thermodynamics II - Queen's University
 linkTitle: Learn Thermo
 summary: A third year undergraduate engineering course on advanced concepts in engineering thermodynamics.
-date: '2023-05-13'
+date: '2024-09-10'
 type: book
 tags:
   - previous

@@ -2,7 +2,7 @@
 title: MREN241 - Fluid Mechanics and Fluid Power - Queen's University
 linkTitle: Learn Fluids
 summary: A second year undergraduate engineering course on the fundamentals of Fluid Mechanics for mechatronics engineers.
-date: '2023-05-13'
+date: '2024-09-10'
 type: book
 tags:
   - previous
