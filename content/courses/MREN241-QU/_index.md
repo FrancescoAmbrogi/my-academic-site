@@ -42,4 +42,15 @@ Generally, we expect that students attend all lectures (3hrs/week), review mater
 
 ## Students feedback
 
-Coming soon ...
+{{< spoiler text="Student A" >}}
+The best prof I've had so far at Queen's, which is high praise because I had some pretty great profs in first year. You're so well organized and communicate all the concepts so thoroughly. The lectures themselves are enough for me to grasp the material as you always give explanations for why certain assumptions are made, why fluids exhibit certain behaviours, etc. If I had any further questions, I always feel comfortable coming to ask you. You're very approachable and seem like you care about your students' success. I find your class to be one of the easiest ones I have right now, but that's purely because of how well you teach it and how engaged I am in your lectures.
+{{< /spoiler >}}
+
+{{< spoiler text="Student B" >}}
+Definitely my favourite professor this year. Articulate, clear and concise, and very engaging during lectures. I firmly believe that without the Francesco's teaching style, I would find the content in this course significantly harder than I do now. It is clear he cares about the students in his class as well; I was surprised to learn he remembered my name when he greeted me at a lecture, when I had told him it only once a couple of weeks ago. I only have positive things to say about my experience with the professor for this class.
+{{< /spoiler >}}
+
+{{< spoiler text="Student C" >}}
+Francesco is one of the most approachable and understanding professors, and I really appreciate this. He explains content in a very clear way, makes notes available, and provides practice problems with carefully worked and explained solutions.
+{{< /spoiler >}}
+

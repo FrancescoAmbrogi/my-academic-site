@@ -39,4 +39,17 @@ Generally, we expect that students attend all lectures (3hrs/week), review mater
 
 ## Students feedback
 
-Coming soon ...
+{{< spoiler text="Student A" >}}
+I LOVE FRANCESCO. I have never ever in my life left a review for any prof. I never thought I would find myself loving thermodynamics, but here I am. I genuinely want to attend all his lectures and am engaged throughout. He's incredible, a great professor, charismatic, caring, he learned my name and he learns everyone's name. Best prof I ever had.
+{{< /spoiler >}}
+
+
+{{< spoiler text="Student B" >}}
+Franceso is one of my favourite instructors here at Queen's. It is evident that he is passionate about the topic and ensuring that students really understand what he is teaching. Franceso is very approachable and I would not hesitate to ask him any questions. I feel I do better with this topic because he is the instructor.
+{{< /spoiler >}}
+
+
+{{< spoiler text="Student C" >}}
+Francesco has been my favourite instructor I have had in my 3 years at Queen's. His commitment to his student's learning and understanding is unmatched, evident through spending his time running tutorial sessions. He is always helpful when questions are asked of him and makes students feel passionate about what he is teaching.
+{{< /spoiler >}}
+
