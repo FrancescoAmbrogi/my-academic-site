@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Francesco Ambrogi, PhD
+title: Dr. Ambrogi Francesco
 
 # Is this the primary user of the site?
 superuser: true
