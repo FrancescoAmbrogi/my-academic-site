@@ -26,6 +26,15 @@ item:
 item:
 - certificate_url:
   date_end: ""
+  date_start: "2025-03-17"
+  description: "Presented on an annual basis, this award recognizes the instructor who displays the most interest and enthusiasm towards the Queen's Mechanical and Materials Engineering program as voted by all years (2nd, 3rd and 4th )."
+  organization: Queen's University
+  organization_url:
+  title: Silver Wrench Award - 2025
+  url: "https://www.queensu.ca/ctl/awards/internal-awards/faculty-engineering-and-applied-science/mechanical-engineering-club"
+
+- certificate_url:
+  date_end: ""
   date_start: "2024-03-17"
   description: "Presented on an annual basis, this award recognizes the instructor who displays the most interest and enthusiasm towards the Queen's Mechanical and Materials Engineering program as voted by all years (2nd, 3rd and 4th )."
   organization: Queen's University
