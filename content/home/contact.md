@@ -30,13 +30,13 @@ content:
     street: 130 Stuart St
     city: Kingston
     region: ON
-    postcode: K7L 2V9
-    country: Canada
-    country_code: CA
+    postcode:
+    country:
+    country_code:
   coordinates:
-    latitude: '44.22388'
-    longitude: '-76.49528'
-  directions: Enter the McLaughlin building, my office is in room 217.
+    latitude:
+    longitude:
+  directions: Enter the McLaughlin building, my office is in room 230.
   office_hours:
     - 'By appointment'
   #appointment_url: 'https://calendly.com'
@@ -51,5 +51,5 @@ content:
    #   link: 'https://zoom.com'
 
 design:
-  columns: '2'
+  columns: '1'
 ---
