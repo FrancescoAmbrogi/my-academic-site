@@ -44,12 +44,15 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-- icon: envelope
-  icon_pack: fas
-  link: '/#contact'
+#- icon: envelope
+#  icon_pack: fas
+#  link: '/#contact'
 - icon: github
   icon_pack: fab
   link: https://github.com/FrancescoAmbrogi/
+- icon: youtube
+  icon_pack: fab
+  link: https://youtube.com/@ambrogifra-fluids?si=lvt06ca38VYxoyze
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/francescoambrogi/
