@@ -26,6 +26,17 @@ item:
 item:
 - certificate_url:
   date_end: ""
+  date_start: "2025-04-06"
+  description: "The Golden Apple was created in December of 1970 by the Engineering Society Development Committee as a means for undergraduate students to honor faculty members."
+  organization: Engineering Society at Queen's University
+  organization_url: "https://www.engsoc.queensu.ca/"
+  title: Golden Apple Award - 2025
+  url: "https://www.queensu.ca/ctl/awards/internal-awards/faculty-engineering-and-applied-science/queens-engineering-society#Golden-Apple-Award"
+
+
+
+- certificate_url:
+  date_end: ""
   date_start: "2025-03-17"
   description: "Presented on an annual basis, this award recognizes the instructor who displays the most interest and enthusiasm towards the Queen's Mechanical and Materials Engineering program as voted by all years (2nd, 3rd and 4th )."
   organization: Queen's University
