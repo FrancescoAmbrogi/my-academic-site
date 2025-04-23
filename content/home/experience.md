@@ -32,6 +32,7 @@ experience:
     description: |2-
         Since the winter term 2023 I have been teaching thermo-fluids courses to second and third year engineering students:
         * MECH 241 - Fluid Mechanics I
+        * MREN 230 - Thermodynamics and heat transfer
         * MREN 241 - Fluid Mechanics and Fluid Power
         * MECH 330 - Applied Thermodynamics II
 

@@ -27,7 +27,7 @@ feature:
 - description:
   icon: brain
   icon_pack: fas
-  name: Project Management
+  name: Higher education
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"

@@ -30,7 +30,7 @@ education:
   courses:
   - course: Ph.D. in Mechanical Engineering
     institution: Queen's University
-    year: 2023
+    year: 2024
   - course: M.S. in Energy and Nuclear Engineering
     institution: Alma Mater Studiorum University of Bologna
     year: 2019
