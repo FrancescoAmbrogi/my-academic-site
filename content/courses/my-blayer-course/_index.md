@@ -762,7 +762,7 @@ This is the Blasius solution for the boundary layer thickness. To keep in mind a
 1. The definition of the boundary layer thickness contains a level of arbitrariness which is the choice of the 99% value. However the boundary layer displacement thickness $\delta^{*}$ is an integral quantity of the flow with no assumptions whatsoever.
 2. The Blasius solution is ONLY valid if $dU_\infty /dx=0$. If we recall that the freestream velocity gradient is connected to the pressure gradient $dP/dx$, we can say that the Blasius solution is only valid for a ZERO PRESSURE GRADIENT boundary layer.
 
-
-
-
-
+## References
+1. Source of original German text: Ludwig Prandtl, “Über Flüssigkeitsbewegung bei sehr kleiner Reibung.” Special issue of the “Verhandlungen des III. Internationalen Mathematiker-Kongresses Heidelberg 1904.”
+2. Blasius, H. (1908) The Boundary Layers in Fluids with Little Friction. Zeitschrift für Angewandte Mathematik und Physik, 56, 1-37.
+3. Personal notes taken over the years.
