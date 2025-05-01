@@ -25,7 +25,7 @@ content:
   #    captcha: false
 
   # Contact details (edit or remove options as required)
-  email: ambrogifra@gmail.com
+  email: fa35@queensu.ca
   address:
     street: 130 Stuart St
     city: Kingston

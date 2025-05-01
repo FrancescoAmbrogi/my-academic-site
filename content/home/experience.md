@@ -23,12 +23,19 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 
 experience:
+  - title: Assistant professor
+    company: Queen's University
+    company_url: ''
+    location: Kingston (ON)
+    date_start: '2025-05-01'
+    date_end: ''
+
   - title: Adjunct assistant professor
     company: Queen's University
     company_url: ''
     location: Kingston (ON)
     date_start: '2023-01-01'
-    date_end: ''
+    date_end: '2025-04-30'
     description: |2-
         Since the winter term 2023 I have been teaching thermo-fluids courses to second and third year engineering students:
         * MECH 241 - Fluid Mechanics I

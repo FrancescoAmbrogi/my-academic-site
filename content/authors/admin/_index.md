@@ -6,7 +6,7 @@ title: Dr. Ambrogi Francesco
 superuser: true
 
 # Role/position/tagline
-role: Adjunct assistant professor
+role: Assistant professor
 
 # Organizations/Affiliations to show in About widget
 organizations:
