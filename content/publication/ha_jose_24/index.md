@@ -1,6 +1,5 @@
 ---
-title: 'ARC4CFD: Learning how to leverage High-Performance Computing with Computational Fluid Dynamics (in review)'
-
+title: 'ARC4CFD: Learning how to leverage High-Performance Computing with Computational Fluid Dynamics'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -17,13 +16,13 @@ authors:
   - ''
   - ''
 
-date: '2024-07-23T00:00:00Z'
-doi: ''
+date: '2025-04-19T00:00:00Z'
+doi: '10.21105/jose.00252'
 
 math: true
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2024-09-24T00:00:00Z'
+publishDate: '2025-05-05T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -47,8 +46,8 @@ featured: true
 #- name: Publication page
 #  url: https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/characterization-of-unsteady-separation-in-a-turbulent-boundary-layer-mean-and-phaseaveraged-flow/25802765C211036318F556F5DF29F46E
 
-url_pdf: 'https://arc4cfd.github.io/'
-url_code: ''
+url_pdf: 'https://www.theoj.org/jose-papers/jose.00252/10.21105.jose.00252.pdf'
+url_code: 'https://jose.theoj.org/papers/10.21105/jose.00252'
 url_dataset: ''
 url_poster: ''
 url_project: ''
