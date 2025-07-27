@@ -10,10 +10,10 @@ role: Assistant professor
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Queen's University
-  url: https://smithengineering.queensu.ca/mme/index
+- name: FEBUS Lab
+  url: https://francescoambrogi.github.io/febus-lab/
 - name: Mechanical and Materials Engineering (MME) department
-  url: https://smithengineering.queensu.ca/mme/index
+  url: https://smithengineering.queensu.ca/directory/faculty/francesco-ambrogi.html
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include boundary layer theory, particle-laden flows, computational fluid dynamics, direct numerical and large eddy simulations of turbulent flows.
